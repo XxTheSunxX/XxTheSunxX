@@ -1,4 +1,25 @@
-## Hi there 👋
+## GitHub Page for XxTheSunxX
+
+## Certifications
+- A+
+- Network+
+- Security+
+- Server+
+- Linux+
+
+## Languages known
+- Python
+- Bash
+
+## Future Aspirations
+- Learn C
+- Learn C++
+- Learn Rust
+- Become LPIC-1 certified
+
+## Open to connect on LinkedIn or Follow me on GitHub
+
+## Open to Collaborate on Open Source Projects
 
 <!--
 **XxTheSunxX/XxTheSunxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
